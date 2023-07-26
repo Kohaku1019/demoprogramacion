@@ -1,0 +1,21 @@
+programacion 2023
+codigos a usar
+pdw                    -----> donde me encuentro
+cd                     -----> ingresar a 
+cd ..                  -----> retrodecer de donde estoy
+ls                     -----> mostrar archivos
+ls -l                  -----> mostrar los archivos mas organizados
+ls -al                 -----> mortrar archivos ocultos 
+mkdir                  -----> crea un directorio
+./                     -----> directorio actual
+../                    -----> directorio padre
+git config -           -----> para 1 letra
+git config --          -----> para una palabra
+git init               -----> crea un repositorio
+git status             -----> informacion del repositorio
+touch                  -----> crea un documento 
+git add                -----> lo agrega a la zona stage para poder hacerle un commit
+git commit -m "mensaje"-----> agrega el commit al repositorio
+git log                -----> muestra los commits ingresados
+git checkout "cod comm"-----> volver al commit que desees
+git switch -           -----> me devuelve todo como estaba
